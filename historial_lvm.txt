@@ -1,0 +1,70 @@
+    1  exit
+    2  ls -l
+    3  cat carpeta_compartida/
+    4  cd carpeta_compartida/
+    5  ls *l
+    6  ls-l
+    7  ls -l
+    8  fdisk -l
+    9  sudo fdisk -l
+   10  cat Vagrantfile 
+   11  ls -l
+   12  sudo fdisk -l
+   13  p
+   14  fdisk /dev/sdb
+   15  p
+   16  sudo fdisk /dev/sdb
+   17  fdisk -l
+   18  sudo fdisk -l
+   19  cd ..
+   20  ls -l
+   21  df -h
+   22  cd ..
+   23  ls -l
+   24  cat vagrant/
+   25  ls -l
+   26  exit
+   27  sudo fdisk
+   28  m
+   29  sudo fdisk
+   30  sudo fdisk -l
+   31  fdisk -l
+   32  sudo fdisk -l
+   33  n
+   34  sudo fdisk dev/sdb
+   35  sudo fdisk /dev/sdb
+   36  sudo fdisk /dev/sdd
+   37  free
+   38  free -h
+   39  sudo mkswap /dev/sdd1
+   40  free -h
+   41  sudo swapon /dev/sdd1
+   42  free -h
+   43  w
+   44  ls -l
+   45  cat carpeta_compartida/
+   46  ls -l
+   47  cd carpeta_compartida/
+   48  ls -l
+   49  cd ..
+   50  ls -l
+   51  cd ..
+   52  ls -l
+   53  fdisk
+   54  sudo fdisk -l
+   55  cd vagrant/
+   56  cd repogit/
+   57  ls -l
+   58  cd carpeta_compartida/
+   59  ls -l
+   60  cd Vagrantfile
+   61  cat Vagrantfile 
+   62  cd 
+   63  ls -l
+   64  git clone https://github.com/Claribjj/TP2_Benitez_Claribel.git
+   65  ls -l
+   66  cd TP2_Benitez_Claribel/
+   67  sudo pvs > pvs.txt
+   68  sudo vgs > vgs.txt
+   69  sudo lvs > lvs.txt
+   70  history > historial_lvm.txt
